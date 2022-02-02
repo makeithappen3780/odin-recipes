@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+    background-color: rgb(98, 134, 98);
+}
+
+p {
+    background-color: rgb(255, 255, 255);
+    
+}
+
+div h1 {
+    background-color: violet;
+}
+.test {
+    background-color: thistle;
+    color: black;
+}
+
+h3 {
+    background-color: rgb(219, 185, 185);
+}
